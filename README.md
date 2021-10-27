@@ -2,7 +2,7 @@
 
 | Parameter | Type | Description | Sent Always |
 | - | - | - | - |
-| OperationSucceded | bool | indicates whether the operation succeeded or not.  | <ul><li>- [x] item1</li></ul> |
+| OperationSucceded | bool | indicates whether the operation succeeded or not.  | :heavy_check_mark: |
 | ResponseCode | int | HttpResponseCode | YES |
 | | | | - [x] |
 | | | | |
